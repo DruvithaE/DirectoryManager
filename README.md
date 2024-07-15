@@ -5,7 +5,7 @@ DSA mini project
 The Command-Line Sandbox Directory Manager features a djb2 hash function for efficient hashing, N-ary trees for hierarchical organization, and trie structures for fast prefix matching. This utility offers optimal performance in creating, navigating, and manipulating sandboxed directories via a user-friendly command-line interface. Its design showcases key data structures and algorithms, emphasizing speed and efficiency.
 
 Running the program:
-typr "make" in the terminal
+type "make" in the terminal
 
 Features:
 Add a file in the current directory using the add function
